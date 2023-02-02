@@ -1,0 +1,4 @@
+1|Maggi|True|Milagro|0924390024|True
+2|Nestlé|True|Milagro|029923212|True
+3|Unilever|True|Durán|0209432390|True
+4|Jeff|True|Guayaquil|0292983232|True
